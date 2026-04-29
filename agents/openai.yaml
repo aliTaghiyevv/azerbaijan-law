@@ -1,0 +1,4 @@
+interface:
+  display_name: "Azerbaijan Law"
+  short_description: "Research and draft with Azerbaijan legal sources."
+  default_prompt: "Research this Azerbaijan law question using official sources and provide cited legal information."
